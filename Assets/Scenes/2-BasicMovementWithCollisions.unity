@@ -321,8 +321,8 @@ GameObject:
   - component: {fileID: 1568119381}
   - component: {fileID: 1568119380}
   - component: {fileID: 1568119382}
-  - component: {fileID: 1568119379}
   - component: {fileID: 1568119383}
+  - component: {fileID: 1568119379}
   m_Layer: 0
   m_Name: RedCircle
   m_TagString: Untagged
